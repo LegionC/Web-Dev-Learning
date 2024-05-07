@@ -2,7 +2,9 @@ h1 {
     text-align: center;
     font-weight: 800;
     text-decoration: orange underline wavy;
-    letter-spacing: 10px;
+    letter-spacing: 15px;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
